@@ -1,0 +1,1 @@
+Este proyecto sera la estructura de como llevar a cabo un buen CI/CD en proyecto 
